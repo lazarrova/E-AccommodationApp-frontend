@@ -1,5 +1,47 @@
-# React + Vite
+🖥️ EMT Frontend — Accommodation Management App
+This is the frontend React application built with Vite for the EMT Accommodation project. 
+It allows users to view, add, edit, and delete accommodations,countries and hosts via a modern, responsive interface.
 
+It interacts with the backend Spring Boot API using secure HTTP requests and supports authentication via JWT.
+
+✅ Features
+Manage via UI:
+
+🏨 Accommodations
+
+🌍 Countries
+
+👨‍💼 Hosts
+
+
+🔐 JWT Authentication with secure login/logout functionality (in development)
+⚙️ React Router for intuitive navigation
+🔄 Axios for API communication
+🧩 Modular component-based architecture
+🎨 Material UI or custom components for clean UI (update based on your actual UI library)
+
+🛠️ Technologies Used
+React 18+
+
+Vite
+
+Axios
+
+React Router DOM
+
+JavaScript
+
+Tailwind CSS / Material UI / CSS Modules (adjust based on what you're using)
+
+JWT for frontend authentication handling (in development)
+
+
+
+
+
+
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -10,3 +52,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
