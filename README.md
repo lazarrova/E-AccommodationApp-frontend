@@ -34,6 +34,8 @@ JavaScript
 Tailwind CSS / Material UI / CSS Modules (adjust based on what you're using)
 
 JWT for frontend authentication handling (in development)
+
+
 🌐 Backend Integration
 Make sure your Spring Boot backend is running and accessible (default: http://localhost:9091).
 The frontend will send requests to the backend API (e.g., for login, fetching accommodations, etc.)
